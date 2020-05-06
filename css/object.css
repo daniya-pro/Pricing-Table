@@ -1,9 +1,9 @@
 html{background: linear-gradient(to right, #0062E6, #33AEFF);
-font-family: a;}
-body{font-family: a;}
-div{font-family: a;}
+font-family: a !important ;}
+body{font-family: a !important;}
+div{font-family: a !important;}
 .h6{    font-size: 12px;
-  margin-top: 23px; font-family: a;}
+  margin-top: 23px; font-family: a !important;}
 section.pricing {
   background: #007bff;
   background: linear-gradient(to right, #0062E6, #33AEFF);
@@ -85,6 +85,6 @@ a:active{color: black !important;}
 
   font-family: a;
 
-  src: url(../../font/Manrope-ExtraBold.ttf);
+  src: url(../font/Manrope-ExtraBold.ttf);
 
 }
